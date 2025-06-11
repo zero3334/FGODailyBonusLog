@@ -64,4 +64,3 @@
 | TELEGRAM_BOT_TOKEN   | nullvalue                                                             | 发送通知的bot token，不需要就填nullvalue    |
 | VERY_IMPORTANT_NAME  | your_github_name                                                      | 填你的github name                           |
 | VERY_IMPORTANT_TOKEN | ghp_uCwPxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                              | 第三步申请的access token                    |
-1
