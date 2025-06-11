@@ -1,4 +1,4 @@
-# FGODailyBonus fate grand order
+# FGODailyBonus fate grand order9
 `Fate/Go`每日签到脚本，自`2020/06/23`以来稳定运行中。  
 **但不排除有被封号的可能性，使用后果请自负。**
 
